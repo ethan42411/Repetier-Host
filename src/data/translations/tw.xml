@@ -1,29 +1,29 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<translation revision="5" language="中繁文" languageInEnglish="Chinese" author="tswang@gmail.com">
-<t id="M_FILE" ver="1">文件</t>
-<t id="M_CONFIG" ver="1">配置</t>
-<t id="M_SLICER" ver="1">代碼生成器</t>
+<translation revision="5" language="繁體中文" languageInEnglish="Traditional_Chinese_(Taiwan)" author="tswang@gmail.com;ethan42411@gmail.com">
+<t id="M_FILE" ver="1">檔案</t>
+<t id="M_CONFIG" ver="1">設定</t>
+<t id="M_SLICER" ver="1">程式碼產生器</t>
 <t id="M_TEMPERATURE" ver="1">溫度</t>
-<t id="M_PRINTER" ver="1">打印機</t>
+<t id="M_PRINTER" ver="1">印表機</t>
 <t id="M_HELP" ver="1">幫助</t>
-<t id="M_LOAD_GCODE" ver="1">載入 G-Code</t>
+<t id="M_LOAD_GCODE" ver="1">開啟 G-Code</t>
 <t id="M_SHOW_WORKDIRECTORY" ver="1">顯示工作目錄</t>
 <t id="M_LANGUAGE" ver="1">語言</t>
-<t id="M_PRINTER_SETTINGS" ver="1">打印機設置</t>
-<t id="M_EEPROM_SETTINGS" ver="1">固件EEPROM 配置</t>
-<t id="M_3D_VIEWER_CONFIGURATION" ver="1">3D 窗口配置</t>
-<t id="M_REPETIER_SETTINGS" ver="1">Repetier 通用設定</t>
-<t id="M_TESTCASE_SETTINGS" ver="1">測試代碼生成器參數</t>
-<t id="M_SOUND_CONFIGURATION" ver="1">聲音配置</t>
+<t id="M_PRINTER_SETTINGS" ver="1">印表機設定</t>
+<t id="M_EEPROM_SETTINGS" ver="1">韌體EEPROM設定</t>
+<t id="M_3D_VIEWER_CONFIGURATION" ver="1">3D預覽設定</t>
+<t id="M_REPETIER_SETTINGS" ver="1">Repetier一般設定</t>
+<t id="M_TESTCASE_SETTINGS" ver="1">測試程式碼產生器參數</t>
+<t id="M_SOUND_CONFIGURATION" ver="1">聲音設定</t>
 <t id="M_SHOW_EXTRUDER_TEMPERATURES" ver="1">顯示擠出頭溫度</t>
 <t id="M_SHOW_HEATED_BED_TEMPERATURES" ver="1">顯示加熱床溫度</t>
 <t id="M_SHOW_TARGET_TEMPERATURES" ver="1">顯示目標溫度</t>
 <t id="M_SHOW_AVERAGE_TEMPERATURES" ver="1">顯示平均溫度</t>
 <t id="M_SHOW_HEATER_POWER" ver="1">顯示加熱器功率</t>
-<t id="M_AUTOSCROLL_TEMPERATURE_VIEW" ver="1">溫度窗口自動滾動</t>
+<t id="M_AUTOSCROLL_TEMPERATURE_VIEW" ver="1">溫度視窗自動捲動</t>
 <t id="M_TIMEPERIOD" ver="1">時間間隔</t>
 <t id="M_TEMPERATURE_ZOOM" ver="1">縮放</t>
-<t id="M_BUILD_AVERAGE_OVER" ver="1">估算打印時間...</t>
+<t id="M_BUILD_AVERAGE_OVER" ver="1">預估列印時間...</t>
 <t id="M_30_SECONDS" ver="1">30 秒</t>
 <t id="M_1_MINUTE" ver="1">1 分鐘</t>
 <t id="M_2_MINUTES" ver="1">2 分鐘</t>
@@ -33,65 +33,65 @@
 <t id="M_30_MINUTES" ver="1">30 分鐘</t>
 <t id="M_60_MINUTES" ver="1">60 分鐘</t>
 <t id="M_CONTINUOUS_MONITORING" ver="1">持續監控</t>
-<t id="M_DISABLE" ver="1">禁止</t>
+<t id="M_DISABLE" ver="1">關閉</t>
 <t id="M_EXTRUDER_1" ver="1">擠出頭 1</t>
 <t id="M_EXTRUDER_2" ver="1">擠出頭 2</t>
 <t id="M_HEATED_BED" ver="1">加熱床</t>
-<t id="M_PRINTER_INFORMATION" ver="1">打印機信息</t>
+<t id="M_PRINTER_INFORMATION" ver="1">印表機訊息</t>
 <t id="M_JOB_STATUS" ver="1">任務狀態</t>
-<t id="M_SD_CARD_MANAGER" ver="1">SD卡管理器</t>
-<t id="L_SD_CARD_MANAGEMENT" ver="1">SD卡管理</t>
-<t id="M_TEST_CASE_GENERATOR" ver="1">測試生成器</t>
-<t id="M_SEND_SCRIPT_1" ver="1">發送腳本1</t>
-<t id="M_SEND_SCRIPT_2" ver="1">發送腳本2</t>
-<t id="M_SEND_SCRIPT_3" ver="1">發送腳本3</t>
-<t id="M_SEND_SCRIPT_4" ver="1">發送腳本4</t>
-<t id="M_SEND_SCRIPT_5" ver="1">發送腳本5</t>
-<t id="M_REPETIER_HOST_HOMEPAGE" ver="1">Repetier-Host 軟件主頁</t>
-<t id="M_REPETIER_HOST_DOWNLOAD_PAGE" ver="1">Repetier-Host 軟件下載</t>
-<t id="M_MANUAL" ver="1">Repetier-Host 軟件手冊</t>
-<t id="M_SLIC3R_HOMEPAGE" ver="1">Slic3r 軟件主頁</t>
-<t id="M_SKEINFORGE_HOMEPAGE" ver="1">Skeinforge 軟件主頁</t>
-<t id="M_REPRAP_WEBSITE" ver="1">RepRap 主頁</t>
+<t id="M_SD_CARD_MANAGER" ver="1">SD記憶卡管理器</t>
+<t id="L_SD_CARD_MANAGEMENT" ver="1">SD記憶卡管理</t>
+<t id="M_TEST_CASE_GENERATOR" ver="1">測試產生器</t>
+<t id="M_SEND_SCRIPT_1" ver="1">傳送腳本1</t>
+<t id="M_SEND_SCRIPT_2" ver="1">傳送腳本2</t>
+<t id="M_SEND_SCRIPT_3" ver="1">傳送腳本3</t>
+<t id="M_SEND_SCRIPT_4" ver="1">傳送腳本4</t>
+<t id="M_SEND_SCRIPT_5" ver="1">傳送腳本5</t>
+<t id="M_REPETIER_HOST_HOMEPAGE" ver="1">Repetier-Host 軟體首頁</t>
+<t id="M_REPETIER_HOST_DOWNLOAD_PAGE" ver="1">Repetier-Host 軟體下載</t>
+<t id="M_MANUAL" ver="1">Repetier-Host 軟體手冊</t>
+<t id="M_SLIC3R_HOMEPAGE" ver="1">Slic3r 軟體首頁</t>
+<t id="M_SKEINFORGE_HOMEPAGE" ver="1">Skeinforge 軟體首頁</t>
+<t id="M_REPRAP_WEBSITE" ver="1">RepRap 首頁</t>
 <t id="M_REPRAP_FORUM" ver="1">RepRap 論壇</t>
 <t id="M_THINGIVERSE_NEWEST" ver="1">Thingiverse 最新設計</t>
-<t id="M_THINGIVERSE_POPULAR" ver="1">Thingiverse 最熱設計</t>
+<t id="M_THINGIVERSE_POPULAR" ver="1">Thingiverse 熱門設計</t>
 <t id="M_ABOUT_REPETIER_HOST" ver="1">關於Repetier-Host</t>
 <t id="M_CHECK_FOR_UPDATES" ver="1">檢查更新</t>
-<t id="L_DISCONNECT_PRINTER" ver="1">斷開打印機</t>
-<t id="L_CONNECT_PRINTER" ver="1">連接打印機</t>
+<t id="L_DISCONNECT_PRINTER" ver="1">斷開印表機</t>
+<t id="L_CONNECT_PRINTER" ver="1">連接印表機</t>
 <t id="M_DISCONNECT" ver="1">斷開</t>
 <t id="M_CONNECT" ver="1">連接</t>
-<t id="M_QUIT" ver="1">退出</t>
-<t id="TAB_3D_VIEW" ver="1">3D 窗口</t>
+<t id="M_QUIT" ver="1">離開</t>
+<t id="TAB_3D_VIEW" ver="1">3D 視窗</t>
 <t id="TAB_TEMPERATURE_CURVE" ver="1">溫度曲線</t>
 <t id="TAB_OBJECT_PLACEMENT" ver="1">物體放置</t>
-<t id="TAB_SLICER" ver="1">代碼生成器</t>
-<t id="TAB_GCODE_EDITOR" ver="1">代碼編輯器</t>
+<t id="TAB_SLICER" ver="1">程式碼產生器</t>
+<t id="TAB_GCODE_EDITOR" ver="1">程式碼編輯器</t>
 <t id="TAB_MANUAL_CONTROL" ver="1">手動控制</t>
 <t id="M_EMERGENCY_STOP" ver="1">緊急停止</t>
-<t id="M_LOAD" ver="1">載入</t>
-<t id="M_SAVE_JOB" ver="1">保存任務</t>
-<t id="M_RUN_JOB" ver="1">運行任務</t>
+<t id="M_LOAD" ver="1">開啟</t>
+<t id="M_SAVE_JOB" ver="1">儲存任務</t>
+<t id="M_RUN_JOB" ver="1">執行任務</t>
 <t id="M_PAUSE_JOB" ver="1">暫停</t>
 <t id="M_KILL_JOB" ver="1">中止</t>
-<t id="M_SD_CARD" ver="1">SD卡</t>
+<t id="M_SD_CARD" ver="1">SD記憶卡</t>
 <t id="M_TOGGLE_LOG" ver="1">是否記錄</t>
 <t id="M_SHOW_FILAMENT" ver="1">顯示 材料</t>
 <t id="M_HIDE_FILAMENT" ver="1">隱藏 材料</t>
-<t id="L_FILAMENT_VISUALIZATION_DISABLED" ver="1">材料可視化允許</t>
-<t id="L_FILAMENT_VISUALIZATION_ENABLED" ver="1">材料可視化禁止</t>
-<t id="L_LOAD_FILE" ver="1">讀入文件</t>
-<t id="L_IMPORT_G_CODE" ver="1">載入 G-Code</t>
-<t id="L_SAVE_G_CODE" ver="1">保存 G-Code</t>
+<t id="L_FILAMENT_VISUALIZATION_DISABLED" ver="1">材料可視化啟用</t>
+<t id="L_FILAMENT_VISUALIZATION_ENABLED" ver="1">材料可視化關閉</t>
+<t id="L_LOAD_FILE" ver="1">開啟檔案</t>
+<t id="L_IMPORT_G_CODE" ver="1">開啟 G-Code</t>
+<t id="L_SAVE_G_CODE" ver="1">儲存 G-Code</t>
 <t id="L_ERROR" ver="1">錯誤</t>
 <t id="L_PAUSE_MSG" ver="1">按 OK 繼續.
-你可以在代碼中增加暫停命令
-@pause 示例文本</t>
+你可以在程式碼中增加暫停命令
+@pause 一些像是這樣的文字</t>
 <t id="L_DISCONNECTED" ver="1">斷開連接</t>
 <t id="L_UPDATING..." ver="1">更新 ...</t>
-<t id="L_SLICE_WITH" ver="1">生成代碼用$1</t>
-<t id="L_EMERGENCY_STOP_MSG" ver="1">發送緊急停止到打印機. 可能需要重啟打印機重新開始!</t>
+<t id="L_SLICE_WITH" ver="1">用$1產生程式碼</t>
+<t id="L_EMERGENCY_STOP_MSG" ver="1">傳送緊急停止到印表機. 可能需要重啟印表機重新開始!</t>
 <t id="L_TRANSLATION:" ver="1">平移</t>
 <t id="L_SCALE:" ver="1">縮放</t>
 <t id="L_ROTATE:" ver="1">旋轉</t>
@@ -104,20 +104,20 @@
 <t id="B_COPY_OBJECTS" ver="1">複製物體</t>
 <t id="B_CENTER_OBJECT" ver="1">物體對中</t>
 <t id="L_LOCK_ASPECT_RATIO" ver="1">鎖定顯示比例</t>
-<t id="B_KILL_SLICING_PROCESS" ver="1">中止代碼生成</t>
-<t id="B_SETUP_SKEINFORGE" ver="1">設置命令行</t>
-<t id="B_SETUP_SLIC3R" ver="1">設置命令行</t>
-<t id="B_CONFIGURE_SKEINFORGE" ver="1">配置</t>
-<t id="B_CONFIGURE_SLIC3R" ver="1">配置</t>
-<t id="B_ACTIVE" ver="1">激活</t>
-<t id="L_FILAMENT_SETTINGS" ver="1">原料設置:</t>
-<t id="L_PRINTER_SETTINGS" ver="1">打印機設置:</t>
-<t id="L_PRINT_SETTINGS" ver="1">打印設置:</t>
-<t id="L_PROFILE" ver="1">預設配置:</t>
-<t id="B_SEND" ver="1">發送</t>
+<t id="B_KILL_SLICING_PROCESS" ver="1">停止產生程式碼</t>
+<t id="B_SETUP_SKEINFORGE" ver="1">設定命令行</t>
+<t id="B_SETUP_SLIC3R" ver="1">設定命令行</t>
+<t id="B_CONFIGURE_SKEINFORGE" ver="1">設定</t>
+<t id="B_CONFIGURE_SLIC3R" ver="1">設定</t>
+<t id="B_ACTIVE" ver="1">啟用</t>
+<t id="L_FILAMENT_SETTINGS" ver="1">材料設定:</t>
+<t id="L_PRINTER_SETTINGS" ver="1">印表機設定:</t>
+<t id="L_PRINT_SETTINGS" ver="1">列印設定:</t>
+<t id="L_PROFILE" ver="1">預設設定:</t>
+<t id="B_SEND" ver="1">傳送</t>
 <t id="B_SIMULATE_OK" ver="1">OK</t>
 <t id="B_STOP_MOTOR" ver="1">停止馬達</t>
-<t id="B_PARK" ver="1">歸位</t>
+<t id="B_PARK" ver="1">原點復歸</t>
 <t id="B_RETRACT" ver="1">回退</t>
 <t id="B_EXTRUDE" ver="1">擠出</t>
 <t id="L_OUTPUT_PERCENT" ver="1">輸出 $1%</t>
@@ -126,9 +126,9 @@
 <t id="B_HEAT_PRINTBED" ver="1">加熱加熱床</t>
 <t id="B_FAN" ver="1">風扇</t>
 <t id="B_DEBUG_ERRORS" ver="1">錯誤</t>
-<t id="B_DEBUG_ECHO" ver="1">調試信息</t>
-<t id="B_DRY_RUN" ver="1">試運行</t>
-<t id="B_DEBUG_INFO" ver="1">信息</t>
+<t id="B_DEBUG_ECHO" ver="1">設定訊息</t>
+<t id="B_DRY_RUN" ver="1">執行測試</t>
+<t id="B_DEBUG_INFO" ver="1">訊息</t>
 <t id="L_EXTRUDER" ver="1">擠出頭</t>
 <t id="L_PRINTBED" ver="1">加熱床</t>
 <t id="L_SPEED_MULTIPLY" ver="1">速度倍率</t>
@@ -139,172 +139,172 @@
 <t id="L_CONNECTED" ver="1">連接</t>
 <t id="L_HEATING_BED" ver="1">加熱床</t>
 <t id="L_HEATING_EXTRUDER" ver="1">正在加熱擠出頭</t>
-<t id="L_PRINT_JOB_KILLED" ver="1">打印任務已中止</t>
-<t id="L_PRINT_JOB_PAUSED" ver="1">打印任務已暫停</t>
-<t id="L_PRINT_JOB_FINISHED" ver="1">打印任務已結束</t>
+<t id="L_PRINT_JOB_KILLED" ver="1">列印任務已中止</t>
+<t id="L_PRINT_JOB_PAUSED" ver="1">列印任務已暫停</t>
+<t id="L_PRINT_JOB_FINISHED" ver="1">列印任務已結束</t>
 <t id="L_UPLOADING..." ver="1">上傳中 ...</t>
-<t id="L_PRINTING_JOB_ETA" ver="1">打印任務ETA $1</t>
-<t id="L_IDLE" ver="1">閒</t>
-<t id="L_X_COMMANDS_WAITING" ver="1">$1 命令等待</t>
+<t id="L_PRINTING_JOB_ETA" ver="1">列印任務ETA $1</t>
+<t id="L_IDLE" ver="1">閒置</t>
+<t id="L_X_COMMANDS_WAITING" ver="1">$1 條命令等待中</t>
 <t id="L_EXTRUDER:" ver="1">擠出頭r:</t>
 <t id="L_BED:" ver="1">熱床:</t>
 <t id="L_OFF" ver="1">關</t>
 <t id="L_NOT_A_NUMBER" ver="1">不是數字</t>
 <t id="L_POSITIVE_NUMBER_REQUIRED" ver="1">需要正值</t>
 <t id="L_NOT_AN_INTEGER" ver="1">不是整數</t>
-<t id="L_RESET_OUTPUT" ver="1">重置輸出，經等待，得到$1</t>
-<t id="L_RECEIVING_ONLY_ERRORS" ver="1">只接受到錯誤信息. 中止通訊.</t>
-<t id="L_PRINTING..ETA" ver="1">打印...ETA $1</t>
+<t id="L_RESET_OUTPUT" ver="1">重置輸出，獲得$1</t>
+<t id="L_RECEIVING_ONLY_ERRORS" ver="1">只接受到錯誤訊息. 中止通訊.</t>
+<t id="L_PRINTING..ETA" ver="1">列印...ETA $1</t>
 <t id="L_LAYER_X/Y" ver="1"> 層 $1/$2</t>
-<t id="L_ERROR_SENDING_DATA:" ver="1">發送數據錯誤:</t>
+<t id="L_ERROR_SENDING_DATA:" ver="1">傳送資料錯誤:</t>
 <t id="L_CONNECTION_ERROR" ver="1">連接錯誤</t>
-<t id="L_SERIAL_COM_ERROR" ver="1">串口錯誤:</t>
+<t id="L_SERIAL_COM_ERROR" ver="1">序列錯誤:</t>
 <t id="L_SHOW_IN_LOG" ver="1">在記錄中顯示:</t>
-<t id="B_ACK" ver="1">應答</t>
-<t id="B_AUTO_SCROLL" ver="1">自動滾動</t>
+<t id="B_ACK" ver="1">回應</t>
+<t id="B_AUTO_SCROLL" ver="1">自動捲動</t>
 <t id="B_COMMANDS" ver="1">命令</t>
 <t id="B_LOG_ERRORS" ver="1">錯誤</t>
-<t id="B_LOG_INFO" ver="1">信息</t>
+<t id="B_LOG_INFO" ver="1">訊息</t>
 <t id="B_LOG_WARNINGS" ver="1">警告</t>
 <t id="B_COPY" ver="1">複製</t>
 <t id="B_CLEAR_LOG" ver="1">清除記錄</t>
 <t id="L_COPY" ver="1">複製</t>
-<t id="L_CUT" ver="1">剪切</t>
-<t id="L_NEW_TEXT" ver="1">新文本</t>
-<t id="L_SAVE" ver="1">保存</t>
-<t id="L_PASTE" ver="1">粘貼</t>
-<t id="L_UNDO" ver="1">回退</t>
-<t id="L_REDO" ver="1">重做</t>
+<t id="L_CUT" ver="1">剪下</t>
+<t id="L_NEW_TEXT" ver="1">新文字</t>
+<t id="L_SAVE" ver="1">儲存</t>
+<t id="L_PASTE" ver="1">貼上</t>
+<t id="L_UNDO" ver="1">上一步</t>
+<t id="L_REDO" ver="1">下一步</t>
 <t id="L_AUTO_UPDATE_PREVIEW" ver="1">自動更新預覽</t>
-<t id="L_START_CODE" ver="1">起始代碼</t>
-<t id="L_END_CODE" ver="1">結束代碼</t>
-<t id="L_RUN_ON_KILL" ver="1">運行中止</t>
-<t id="L_RUN_ON_PAUSE" ver="1">運行暫停</t>
+<t id="L_START_CODE" ver="1">程式碼開頭</t>
+<t id="L_END_CODE" ver="1">程式碼結尾</t>
+<t id="L_RUN_ON_KILL" ver="1">執行中止</t>
+<t id="L_RUN_ON_PAUSE" ver="1">執行暫停</t>
 <t id="L_SCRIPT_X" ver="1">腳本 $1</t>
 <t id="L_LAYER_X" ver="1">層 $1</t>
 <t id="L_EXTRUDER_X" ver="1">擠出頭 $1</t>
 <t id="L_EDITOR_C" ver="1">C$1</t>
 <t id="L_EDITOR_R" ver="1">R$1</t>
-<t id="L_OVERWRITE" ver="1">覆蓋寫</t>
+<t id="L_OVERWRITE" ver="1">覆蓋</t>
 <t id="L_INSERT" ver="1">插入</t>
 <t id="L_SYNTAX" ver="1">語法</t>
 <t id="TAB_HELP" ver="1">幫助</t>
 <t id="TAB_VISUALIZATION" ver="1">可視化</t>
-<t id="L_SHOW_COMPLETE_CODE" ver="1">顯示全部代碼</t>
+<t id="L_SHOW_COMPLETE_CODE" ver="1">顯示全部程式碼</t>
 <t id="L_SHOW_LAYER_RANGE" ver="1">顯示層範圍</t>
 <t id="L_SHOW_SINGLE_LAYER" ver="1">顯示單層</t>
 <t id="L_FIRST_LAYER" ver="1">開始層:</t>
 <t id="L_LAST_LAYER" ver="1">結束層:</t>
-<t id="L_REALLY_DELETE_PRINTER" ver="1">你真的希望刪除$1 的所有設置?</t>
+<t id="L_REALLY_DELETE_PRINTER" ver="1">你真的希望刪除$1 的所有設定?</t>
 <t id="L_SECURITY_QUESTION" ver="1">安全問題</t>
-<t id="L_ADD_PRINTING_TIME" ver="1">增加到comp. 打印時間</t>
-<t id="L_BAUD_RATE" ver="1">波特率:</t>
-<t id="L_CACHE_SIZE_HINT" ver="1">Arduino 1 的接受緩存長度從127字節減少到63 字節!</t>
+<t id="L_ADD_PRINTING_TIME" ver="1">增加到comp. 列印時間</t>
+<t id="L_BAUD_RATE" ver="1">鮑率:</t>
+<t id="L_CACHE_SIZE_HINT" ver="1">Arduino 1 的接受快取長度從127字節減少到63 字節!</t>
 <t id="L_CHECK_EVERY_X" ver="1">每隔$1 秒檢查.</t>
-<t id="L_CONNECTION_INFO" ver="1">打印機的設置參數對應於上面可選擇的打印機. 已經列出的打印機可以直接選擇. 如果打印機類型未列出,
-可以直接輸入新名稱生成新的打印機配置. 新打印機的初始參數與最後選擇的當前打印機相同.</t>
-<t id="L_DEFAULT_EXTRUDER_TEMPERATURE" ver="1">缺省擠出頭溫度:</t>
-<t id="L_DEFAULT_HEATED_BED_TEMPERATURE" ver="1">缺省加熱床溫度:</t>
+<t id="L_CONNECTION_INFO" ver="1">印表機的設定參數對應於上面可選擇的印表機. 已經列出的印表機可以直接選擇. 如果印表機類型未列出,
+可以直接輸入新名稱產生新的印表機設定. 新印表機的初始參數與最後選擇的目前印表機相同.</t>
+<t id="L_DEFAULT_EXTRUDER_TEMPERATURE" ver="1">預設擠出頭溫度:</t>
+<t id="L_DEFAULT_HEATED_BED_TEMPERATURE" ver="1">預設加熱床溫度:</t>
 <t id="L_DUMP_AREA_DEPTH" ver="1">dump區域深度:</t>
 <t id="L_DUMP_AREA_FRONT" ver="1">dump區域前:</t>
 <t id="L_DUMP_AREA_LEFT" ver="1">dump區域左:</t>
 <t id="L_DUMP_AREA_WIDTH" ver="1">dump區域寬度:</t>
-<t id="L_FILTER_INFO" ver="1">每次代碼生成後都可以選擇後處理過濾器. 用於後處理生成的代碼. 在命令行參數中使用#in 和#out 來代表輸入和輸出文件名.</t>
+<t id="L_FILTER_INFO" ver="1">每次程式碼產生後都可以選擇後處理過濾器. 用於後處理產生的程式碼. 在命令行參數中使用#in 和#out 來代表輸入和輸出檔案名稱.</t>
 <t id="L_FILTER_PATH_PARAM" ver="1">處理器路徑和命令行參數:</t>
 <t id="L_PARITY" ver="1">校驗:</t>
-<t id="L_PARK_POSITION" ver="1">停機位:</t>
-<t id="L_PORT" ver="1">端口:</t>
-<t id="L_PRINT_AREA_DEPTH" ver="1">打印區域深度:</t>
-<t id="L_PRINT_AREA_HEIGHT" ver="1">打印區域高度:</t>
-<t id="L_PRINT_AREA_WIDTH" ver="1">打印區域寬度:</t>
-<t id="L_PRINTER" ver="1">打印機:</t>
-<t id="L_RECEIVE_CACHE_SIZE" ver="1">接收緩存大小:</t>
-<t id="L_STOPBITS" ver="1">停止位:</t>
+<t id="L_PARK_POSITION" ver="1">原點復歸位置:</t>
+<t id="L_PORT" ver="1">通訊埠:</t>
+<t id="L_PRINT_AREA_DEPTH" ver="1">列印區域深度:</t>
+<t id="L_PRINT_AREA_HEIGHT" ver="1">列印區域高度:</t>
+<t id="L_PRINT_AREA_WIDTH" ver="1">列印區域寬度:</t>
+<t id="L_PRINTER" ver="1">印表機:</t>
+<t id="L_RECEIVE_CACHE_SIZE" ver="1">接收快取大小:</t>
+<t id="L_STOPBITS" ver="1">停止位元:</t>
 <t id="L_TRANSFER_PROTOCOL" ver="1">傳輸協議:</t>
-<t id="L_TRAVEL_FEED_RATE" ver="1">擠出頭平動速度:</t>
+<t id="L_TRAVEL_FEED_RATE" ver="1">擠出頭移動速度:</t>
 <t id="L_ZFEED_RATE" ver="1">Z-方向運動速度:</t>
 <t id="L_DISABLE_EXTRUDER_AFTER_JOB" ver="1">任務中斷結束後關閉擠出頭</t>
 <t id="L_DISABLE_MOTORS" ver="1">任務中斷結束後關閉馬達</t>
 <t id="L_DISABLE_HEATED_BED_AFTER_JOB" ver="1">任務中斷結束後關閉加熱床</t>
-<t id="L_GO_PARK_POSITION" ver="1">任務中斷結束後回到停機位</t>
+<t id="L_GO_PARK_POSITION" ver="1">任務中斷結束後回到復歸位置</t>
 <t id="L_HAS_DUMP_AREA" ver="1">有Dump 區域</t>
 <t id="L_HOME_X_MAX" ver="1">X起始位在最大值方向</t>
 <t id="L_HOME_Y_MAX" ver="1">Y起始位在最大值方向</t>
 <t id="L_HOME_Z_MAX" ver="1">Z起始位在最大值方向</t>
-<t id="L_PING_PONG_MODE" ver="1">使用ping-pong 通訊(正確應答後才二次發送)</t>
-<t id="L_RUN_FILTER_EVERY_SLICE" ver="1">每次代碼生成後運行後處理</t>
+<t id="L_PING_PONG_MODE" ver="1">使用ping-pong 通訊(正確回應後才傳送)</t>
+<t id="L_RUN_FILTER_EVERY_SLICE" ver="1">每次程式碼產生後執行後處理</t>
 <t id="L_CHECK_EXTRUDER_BED_TEMPERATURE" ver="1">檢測擠出頭&amp; 加熱床溫度</t>
 <t id="L_REMOVE_M105_REQUEST_LOG" ver="1">從記錄中移除M105 請求</t>
 <t id="B_CANCEL" ver="1">取消</t>
-<t id="B_APPLY" ver="1">應用</t>
+<t id="B_APPLY" ver="1">套用</t>
 <t id="B_OK" ver="1">OK</t>
-<t id="B_DELETE_PRINTER_SETTINGS" ver="1">刪除當前打印機設置</t>
+<t id="B_DELETE_PRINTER_SETTINGS" ver="1">刪除目前印表機設定</t>
 <t id="TAB_CONNECTION" ver="1">連接</t>
-<t id="TAB_PRINTER" ver="1">打印機</t>
-<t id="TAB_PRINTER_SHAPE" ver="1">打印機形狀</t>
-<t id="TAB_ADVANCED" ver="1">高級</t>
-<t id="W_PRINTER_SETTINGS" ver="1">打印機設置</t>
-<t id="L_POST_SLICE_FILTER" ver="1">代碼後處理過濾器</t>
+<t id="TAB_PRINTER" ver="1">印表機</t>
+<t id="TAB_PRINTER_SHAPE" ver="1">印表機類型</t>
+<t id="TAB_ADVANCED" ver="1">進階</t>
+<t id="W_PRINTER_SETTINGS" ver="1">印表機設定</t>
+<t id="L_POST_SLICE_FILTER" ver="1">程式碼後處理過濾器</t>
 <t id="L_Z_MIN" ver="1">Z-最小</t>
-<t id="W_PRINT_PAUSED" ver="1">打印暫停</t>
-<t id="L_PAUSE_HINT" ver="1">提示: 你可以手動控制移動擠出頭以變清理多餘材料或者更換材料，結束暫停時，打印機會重設打印頭的位置，自動移動到暫停前的位置.</t>
-<t id="B_CONTINUE_PRINTING" ver="1">繼續打印</t>
+<t id="W_PRINT_PAUSED" ver="1">列印暫停</t>
+<t id="L_PAUSE_HINT" ver="1">提示: 你可以手動控制移動擠出頭以便清理多餘材料或者更換材料，結束暫停時，印表機會重設列印頭的位置，自動移動到暫停前的位置.</t>
+<t id="B_CONTINUE_PRINTING" ver="1">繼續列印</t>
 <t id="W_REPETIER_HOST_UPDATE_CHECK" ver="1">Repetier-Host 檢查更新</t>
 <t id="B_DOWNLOAD" ver="1">下載</t>
-<t id="B_REMIND_ME_LATER" ver="1">以後提醒我</t>
-<t id="B_SKIP_VERSION" ver="1">跳過當前版本</t>
+<t id="B_REMIND_ME_LATER" ver="1">以後再提醒我</t>
+<t id="B_SKIP_VERSION" ver="1">跳過目前版本</t>
 <t id="L_AVAILABLE_VERSION" ver="1">可用版本:</t>
 <t id="L_INSTALLED_VERSION" ver="1">已安裝版本:</t>
-<t id="L_INFORMATION_ON_UPDATE" ver="1">更新信息</t>
-<t id="L_NO_NEW_UPDATES" ver="1">沒有更新版本，當前軟件已是最新.</t>
+<t id="L_INFORMATION_ON_UPDATE" ver="1">更新訊息</t>
+<t id="L_NO_NEW_UPDATES" ver="1">沒有更新版本，目前軟體已是最新.</t>
 <t id="L_UPDATE_STATUS" ver="1">更新狀態</t>
-<t id="W_SLICING_INFO" ver="1">代碼生成信息</t>
+<t id="W_SLICING_INFO" ver="1">程式碼產生訊息</t>
 <t id="L_ACTION:" ver="1">動作:</t>
 <t id="L_DURATION:" ver="1">持續時間:</t>
-<t id="L_SLICER:" ver="1">生成器:</t>
-<t id="L_START_JOB_AFTER_SLICING" ver="1">生成代碼後開始打印</t>
+<t id="L_SLICER:" ver="1">產生器:</t>
+<t id="L_START_JOB_AFTER_SLICING" ver="1">產生程式碼後開始列印</t>
 <t id="W_ABOUT_REPETIER_HOST" ver="1">關於Repetier-Host</t>
-<t id="L_LICENCE_AND_LIBRARIES" ver="1">授權和庫</t>
-<t id="L_REPETIER_INFO" ver="1">本軟件用於控制RepRap 類三維打印機. 最好配合Repetier-firmware專用固件使用. 其他打印機固件例如Marlin, Teacup, Sprinter 和5D GCode interpreter 通過適當設置也可使用.</t>
-<t id="W_COPY_MARKED_OBJECTS" ver="1">複製已標記物體</t>
-<t id="L_NUMBER_OF_COPIES:" ver="1">拷貝數量:</t>
+<t id="L_LICENCE_AND_LIBRARIES" ver="1">授權和函式庫</t>
+<t id="L_REPETIER_INFO" ver="1">本軟體用於控制使用RepRap類型的3D印表機，建議配合Repetier-firmware專用韌體使用，其他印表機韌體例如Marlin, Teacup, Sprinter 和5D GCode interpreter 經過適當設定也可使用。</t>
+<t id="W_COPY_MARKED_OBJECTS" ver="1">複製已選取物體</t>
+<t id="L_NUMBER_OF_COPIES:" ver="1">複製數量:</t>
 <t id="L_AUTO_POSITION_AFTER_COPY" ver="1">增加模型後自動放置</t>
-<t id="L_PRINTING_LAYER_X_OF_Y" ver="1">打印從$1 層到$2 層的​​物體</t>
-<t id="L_BUILDING_PRINT_JOB..." ver="1">處理打印任務...</t>
-<t id="L_PRINTING..." ver="1">正在打印...</t>
+<t id="L_PRINTING_LAYER_X_OF_Y" ver="1">列印從$1 層到$2 層的​​物體</t>
+<t id="L_BUILDING_PRINT_JOB..." ver="1">處理列印任務...</t>
+<t id="L_PRINTING..." ver="1">正在列印...</t>
 <t id="L_JOB_KILLED" ver="1">任務已中止</t>
 <t id="L_PRINTJOB_FINISHED_AT" ver="1">任務結束在$1</t>
-<t id="L_PRINTING_TIME:" ver="1">打印時間:$1</t>
-<t id="L_LINES_SEND:X" ver="1">發送行:$1</t>
-<t id="L_FINISHED_IN" ver="1">估計結束 $1</t>
+<t id="L_PRINTING_TIME:" ver="1">列印時間:$1</t>
+<t id="L_LINES_SEND:X" ver="1">傳送行號:$1</t>
+<t id="L_FINISHED_IN" ver="1">預估結束 $1</t>
 <t id="L_TIME_H:" ver="1">$1小時:</t>
 <t id="L_TIME_M:" ver="1">$1分:</t>
 <t id="L_TIME_S" ver="1">$1秒</t>
-<t id="W_FIRMWARE_EEPROM_SETTINGS" ver="1">固件EEPROM 設置</t>
-<t id="W_GCODE_NOT_FOUND" ver="1">生成的G-Code 未發現</t>
-<t id="L_EXPECTED_FILENAME_AND_LOCATION" ver="1">要求文件名和路徑</t>
-<t id="L_GCODE_NOT_FOUND_INFO" ver="1">無法找到生成的G-code文件.
+<t id="W_FIRMWARE_EEPROM_SETTINGS" ver="1">韌體EEPROM 設定</t>
+<t id="W_GCODE_NOT_FOUND" ver="1">沒有找到G-Code</t>
+<t id="L_EXPECTED_FILENAME_AND_LOCATION" ver="1">想要的檔案名稱和檔案路徑</t>
+<t id="L_GCODE_NOT_FOUND_INFO" ver="1">無法找到已產生的G-code檔案.
 
-可能原因:
-- 代碼生成器出錯未生成代碼. 請檢查記錄輸出.
-- 代碼生成器使用了錯誤的輸出文件名.</t>
+可能的原因:
+- 程式碼產生器出錯未產生出程式碼. 請檢查記錄.
+- 程式碼產生器使用了錯誤的檔案名稱.</t>
 <t id="B_CLOSE" ver="1" >關閉</t>
-<t id="W_REPETIER_SETTINGS" ver="1">Repetier 設置</t>
+<t id="W_REPETIER_SETTINGS" ver="1">Repetier 設定</t>
 <t id="L_BEHAVIOUR" ver="1">行為</t>
-<t id="L_FILES_AND_DIRECTORIES" ver="1">文件和路徑</t>
+<t id="L_FILES_AND_DIRECTORIES" ver="1">檔案和路徑</t>
 <t id="L_GUI" ver="1">GUI</t>
-<t id="L_INFO_WORKDIR" ver="1">如果允許調式記錄，工作路徑中將保存記錄文件和臨時文件.
-程序關閉後會生成文件名為repetier.log 的記錄文件. 再次啟動程序會覆蓋舊的記錄文件!
-記錄文件中包含有所有和打印機的通訊內容.</t>
+<t id="L_INFO_WORKDIR" ver="1">如果啟用調式記錄，工作路徑中將儲存記錄檔案和臨時檔案.
+程式關閉後會產生檔案名稱為repetier.log 的記錄檔案. 再次啟動程式會覆蓋舊的記錄檔案!
+記錄檔案中包含有所有和印表機的通訊內容.</t>
 <t id="L_LOG_SESSION" ver="1">記錄部分</t>
-<t id="REDUCE_TOOLBAR_​​SIZE" ver="1">減小工具條尺寸</t>
-<t id="L_DISABLE_QUALITY_REDUCTION" ver="1">禁止降低質量</t>
+<t id="REDUCE_TOOLBAR_​​SIZE" ver="1">減小工具列尺寸</t>
+<t id="L_DISABLE_QUALITY_REDUCTION" ver="1">關閉降低品質</t>
 <t id="L_EXISTING_WORKDIR_REQUIRED" ver="1">工作路徑目錄必須已存在!</t>
 <t id="L_WORKDIR:" ver="1">工作路徑:</t>
 <t id="B_BROWSE" ver="1">瀏覽...</t>
 <t id="L_SELECT_WORKING_DIRECTORY" ver="1">選擇工作路徑</t>
 <t id="L_PAST_60_MINUTES" ver="1">已過60 分鐘</t>
-<t id="W_3D_VISUALIZATION_SETTINGS" ver="1">3D 可視化設置</t>
+<t id="W_3D_VISUALIZATION_SETTINGS" ver="1">3D 可視化設定</t>
 <t id="L_COLORS" ver="1">顏色</t>
 <t id="L_EDITOR" ver="1">編輯器</t>
 <t id="L_VISUALIZATION" ver="1">可視化:</t>
@@ -322,7 +322,7 @@
 <t id="L_HOT_FILAMENT_LENGTH" ver="1">熱材料長度:</t>
 <t id="L_LIGHT_X" ver="1">光照 $1</t>
 <t id="L_OBJECTS_OUTSIDE_PRINTBED" ver="1">物體超出加熱床邊界:</t>
-<t id="L_PRINTER_BASE" ver="1">打印機基座:</t>
+<t id="L_PRINTER_BASE" ver="1">印表機平台:</t>
 <t id="L_SELECTED_FACES" ver="1">選擇面:</t>
 <t id="L_SELECTED_FILAMENT" ver="1">選擇材料:</t>
 <t id="L_SPECULAR_COLOR" ver="1">反射顏色:</t>
@@ -330,12 +330,12 @@
 <t id="L_X_DIRECTION" ver="1">X 方向:</t>
 <t id="L_Y_DIRECTION" ver="1">Y 方向:</t>
 <t id="L_Z_DIRECTION" ver="1">Z 方向:</t>
-<t id="L_DISABLE_FILAMENT_VISUALIZATION" ver="1">禁止材料可視化</t>
-<t id="L_ENABLE_LIGHT" ver="1">允許光照</t>
+<t id="L_DISABLE_FILAMENT_VISUALIZATION" ver="1">關閉材料可視化</t>
+<t id="L_ENABLE_LIGHT" ver="1">啟用光照</t>
 <t id="L_SHOW_EDGES" ver="1">顯示邊緣</t>
 <t id="L_SHOW_FACES" ver="1">顯示面</t>
 <t id="L_SHOW_PRINTBED" ver="1">顯示加熱床</t>
-<t id="L_PULSE_OBJECT_IF_NOT_PRINTABLE" ver="1">物體不能打印則中止</t>
+<t id="L_PULSE_OBJECT_IF_NOT_PRINTABLE" ver="1">物體不能列印則中止</t>
 <t id="TAB_GENERAL" ver="1">通用</t>
 <t id="TAB_FILAMENT" ver="1">材料</t>
 <t id="TAB_MODEL" ver="1">模型</t>
@@ -349,135 +349,135 @@
 <t id="W_JOB_STATUS" ver="1">任務狀態</t>
 <t id="L_ETA:" ver="1">ETA:</t>
 <t id="L_FINISH_TIME:" ver="1">結束時間:</t>
-<t id="L_LINES_SEND:" ver="1">已發送行:</t>
+<t id="L_LINES_SEND:" ver="1">已傳送行數:</t>
 <t id="L_START_TIME:" ver="1">開始時間:</t>
 <t id="L_STATUS:" ver="1">狀態:</t>
 <t id="L_TOTAL_LINES:" ver="1">總行數:</t>
 <t id="L_NO_JOB_DEFINED" ver="1">未定義任務</t>
-<t id="L_RUNNING..." ver="1">運行中 ...</t>
+<t id="L_RUNNING..." ver="1">執行中 ...</t>
 <t id="L_FINISHED" ver="1">結束</t>
 <t id="L_ABORTED" ver="1">中止</t>
-<t id="W_PRINTER_INFO" ver="1">打印機信息</t>
-<t id="L_CONNECTION_INFORMATION" ver="1">連接信息</t>
-<t id="L_PRINTER_DATA" ver="1">打印機數據</t>
-<t id="L_BYTES_SEND:" ver="1">發送字節:</t>
+<t id="W_PRINTER_INFO" ver="1">印表機訊息</t>
+<t id="L_CONNECTION_INFORMATION" ver="1">連接訊息</t>
+<t id="L_PRINTER_DATA" ver="1">印表機資料</t>
+<t id="L_BYTES_SEND:" ver="1">傳送字節:</t>
 <t id="L_ERRORS_RECEIVED:" ver="1">接收到錯誤:</t>
-<t id="L_FIRMWARE:" ver="1">固件:</t>
-<t id="L_FIRMWARE_URL:" ver="1">固件 URL:</t>
+<t id="L_FIRMWARE:" ver="1">韌體:</t>
+<t id="L_FIRMWARE_URL:" ver="1">韌體 URL:</t>
 <t id="L_MACHINE_TYPE:" ver="1">機器類型:</t>
-<t id="L_NUMBER_EXTRUDER:" ver="1">擠出頭個數:</t>
+<t id="L_NUMBER_EXTRUDER:" ver="1">擠出頭數量:</t>
 <t id="L_PROTOCOL:" ver="1">協議:</t>
-<t id="L_NOT_VALID_83_FILENAME" ver="1">不是有效的8.3 文件名.</t>
+<t id="L_NOT_VALID_83_FILENAME" ver="1">不是有效的8.3 檔案名稱.</t>
 <t id="W_SD_CARD_UPLOAD" ver="1">SD-卡上傳</t>
-<t id="L_UPLOADED_FILENAME:" ver="1">上傳文件名:</t>
+<t id="L_UPLOADED_FILENAME:" ver="1">上傳檔案名稱:</t>
 <t id="L_INCLUDE_JOB_FINISHED_COMMANDS" ver="1">包含任務結束命令</t>
-<t id="L_INCLUDE_START_END_CODE" ver="1">包含"開始" 和"結束" 代碼</t>
-<t id="L_UPLOAD_EXTERNAL_FILE" ver="1">上傳外部文件</t>
-<t id="L_UPLOAD_CURRENG_GCODE" ver="1">上傳當前代碼</t>
-<t id="L_FILE:" ver="1">文件:</t>
-<t id="W_SAVE_GCODE_DIRECT_PRINT" ver="1">為直接打印保存代碼</t>
-<t id="L_SAVE_DIRECT_INFO" ver="1">該保存命令生成用於sd卡打印的代碼文件.其中所有的註釋行都被去除，並且自動添加了起止代碼。如果只是保存當前代碼，請使用直接保存</t>
-<t id="L_SAVE_AS_BINARY" ver="1">存為二進制格式(Repetier-Firmware 固件專用)</t>
+<t id="L_INCLUDE_START_END_CODE" ver="1">包含"開始" 和"結束" 程式碼</t>
+<t id="L_UPLOAD_EXTERNAL_FILE" ver="1">上傳外部檔案</t>
+<t id="L_UPLOAD_CURRENG_GCODE" ver="1">上傳目前程式碼</t>
+<t id="L_FILE:" ver="1">檔案:</t>
+<t id="W_SAVE_GCODE_DIRECT_PRINT" ver="1">儲存成直接列印程式碼</t>
+<t id="L_SAVE_DIRECT_INFO" ver="1">該儲存指令產生用於SD記憶卡列印的程式碼檔案.其中所有的註解行都被去除，並且自動新增了程式碼開頭。如果只是儲存目前程式碼，請使用直接"儲存"指令</t>
+<t id="L_SAVE_AS_BINARY" ver="1">存成二進位格式(Repetier-Firmware 韌體專用)</t>
 <t id="B_SAVE" ver="1">Save</t>
-<t id="W_SD_CARD_MANAGER" ver="1">SD 卡管理器</t>
-<t id="L_FILENAME" ver="1">文件名</t>
+<t id="W_SD_CARD_MANAGER" ver="1">SD記憶卡管理器</t>
+<t id="L_FILENAME" ver="1">檔案名稱</t>
 <t id="L_SIZE" ver="1">大小</t>
-<t id="L_UPLOAD_FILE" ver="1">上傳文件</t>
-<t id="L_DELETE_FILE" ver="1">刪除文件</t>
-<t id="L_RUN_CONTINUE_UPLOAD" ver="1">運行選擇文件或繼續暫停打印</t>
-<t id="L_STOP_UPLOAD" ver="1">打印/停止運行SD 卡任務</t>
-<t id="L_MOUNT_SD_CARD" ver="1">安裝 SD 卡</t>
-<t id="L_UNMOUNT_SD_CARD" ver="1">移除SD 卡</t>
-<t id="L_PRINT_FINISHED" ver="1">打印已結束</t>
+<t id="L_UPLOAD_FILE" ver="1">上傳檔案</t>
+<t id="L_DELETE_FILE" ver="1">刪除檔案</t>
+<t id="L_RUN_CONTINUE_UPLOAD" ver="1">執行選擇檔案或繼續暫停列印</t>
+<t id="L_STOP_UPLOAD" ver="1">列印/停止執行SD記憶卡任務</t>
+<t id="L_MOUNT_SD_CARD" ver="1">安裝 SD記憶卡</t>
+<t id="L_UNMOUNT_SD_CARD" ver="1">移除SD記憶卡</t>
+<t id="L_PRINT_FINISHED" ver="1">列印已結束</t>
 <t id="L_UPLOAD_FINISHED" ver="1">上傳已結束</t>
-<t id="L_SD_PRINTING..." ver="1">SD 卡打印...</t>
+<t id="L_SD_PRINTING..." ver="1">SD記憶卡列印...</t>
 <t id="L_UPLOAD_FAILED" ver="1">上傳失敗</t>
-<t id="L_FILE_DELETED" ver="1">文件已刪除</t>
+<t id="L_FILE_DELETED" ver="1">檔案已刪除</t>
 <t id="L_DELETE_FAILED" ver="1">刪除失敗</t>
-<t id="L_UPLOADING_FILE..." ver="1">上傳文件中...</t>
-<t id="L_FIRMWARE_NO_DELETE" ver="1">你的固件不支持文件刪除操作.</t>
-<t id="L_PRINT_ABORTED" ver="1">打印已中止</t>
-<t id="L_PRINT_PAUSED" ver="1">打印已暫停</t>
-<t id="L_REMOVE_SD_CARD" ver="1">你可以移除sd卡.</t>
-<t id="L_INFORMATION" ver="1">信息</t>
-<t id="L_REALLY_DELETE_X" ver="1">真正刪除$1</t>
-<t id="SOUND_CONFIGURATION" ver="1">聲音配置</t>
+<t id="L_UPLOADING_FILE..." ver="1">上傳檔案中...</t>
+<t id="L_FIRMWARE_NO_DELETE" ver="1">你的韌體不支持檔案刪除操作.</t>
+<t id="L_PRINT_ABORTED" ver="1">列印已中止</t>
+<t id="L_PRINT_PAUSED" ver="1">列印已暫停</t>
+<t id="L_REMOVE_SD_CARD" ver="1">你可以移除SD記憶卡.</t>
+<t id="L_INFORMATION" ver="1">訊息</t>
+<t id="L_REALLY_DELETE_X" ver="1">已經刪除$1</t>
+<t id="SOUND_CONFIGURATION" ver="1">聲音設定</t>
 <t id="L_SOUNDS" ver="1">聲音</t>
 <t id="L_ERROR_SOUND" ver="1">錯誤提示音</t>
-<t id="L_PRINT_FINISHED_SOUND" ver="1">打印結束提示音</t>
-<t id="L_PRINT_PAUSED_SOUND" ver="1">打印暫停結束音</t>
+<t id="L_PRINT_FINISHED_SOUND" ver="1">列印結束提示音</t>
+<t id="L_PRINT_PAUSED_SOUND" ver="1">列印暫停結束音</t>
 <t id="L_SOUND_COMMAND_SOUND" ver="1">聲音@sound 命令提示音</t>
-<t id="L_FILE:X" ver="1">文件:$1</t>
-<t id="L_SELECT_WAV_FILE_TO_PLAY" ver="1">選擇WAV 文件播放</t>
-<t id="W_SLIC3R_SETUP" ver="1">Slic3r 設置</t>
-<t id="L_SLIC3R_SETUP" ver="1">Slic3r 設置</t>
-<t id="L_SLIC3R_BLANK_BUNDLE" ver="1">不填寫則使用預綁定版本.</t>
-<t id="L_SLIC3R_CONFIG_DIR" ver="1">Slic3r 配置目錄</t>
-<t id="L_SLIC3R_EXECUTABLE" ver="1">Slic3r 可執行文件</t>
-<t id="L_SLIC3R_INFO" ver="1">是使用這些設置, 你可以使用不同版本的Slic3r. 新版本可以從http://www.slic3r.org 網址下載，預綁定的版本是0.9. 0. 不填寫則使用預綁定版本.</t>
-<t id="L_SLIC3R_BLANK_CONFIG" ver="1">留空則軟件自動猜測路徑.</t>
-<t id="W_EEPROM_MARLIN" ver="1">Marlin 固件EEPROM 設置</t>
+<t id="L_FILE:X" ver="1">檔案:$1</t>
+<t id="L_SELECT_WAV_FILE_TO_PLAY" ver="1">選擇WAV 檔案播放</t>
+<t id="W_SLIC3R_SETUP" ver="1">Slic3r 設定</t>
+<t id="L_SLIC3R_SETUP" ver="1">Slic3r 設定</t>
+<t id="L_SLIC3R_BLANK_BUNDLE" ver="1">空白則代表使用內建或系統上的版本</t>
+<t id="L_SLIC3R_CONFIG_DIR" ver="1">Slic3r設定檔目錄</t>
+<t id="L_SLIC3R_EXECUTABLE" ver="1">Slic3r執行檔</t>
+<t id="L_SLIC3R_INFO" ver="1">是使用這些設定, 你可以使用不同版本的Slic3r. 新版本可以從http://www.slic3r.org 網址下載，預設內建的版本是0.9. 0. 不填寫則使用預設內建版本.</t>
+<t id="L_SLIC3R_BLANK_CONFIG" ver="1">留空則軟體自動猜測路徑.</t>
+<t id="W_EEPROM_MARLIN" ver="1">Marlin 韌體EEPROM 設定</t>
 <t id="L_M_ACCELERATION" ver="1">加速:</t>
 <t id="L_M_ADVANCED_VARIABLES" ver="1">高級參數:</t>
-<t id="L_M_HOMING_OFFSET" ver="1">缺省位置偏移:</t>
+<t id="L_M_HOMING_OFFSET" ver="1">原點偏移:</t>
 <t id="L_M_MAX_ACCELERATION" ver="1">最大加速度[mm/s²]:</t>
 <t id="L_M_MAX_FEEDRATE" ver="1">最大速度[mm/s]:</t>
 <t id="L_M_MAX_XY_JERK" ver="1"> XY 最大換向[mm/s]</t>
 <t id="L_M_MAX_Z_JERK" ver="1">Z 最大換向[mm/s]</t>
 <t id="L_M_MIN_FEEDRATE" ver="1">最小移動速度[mm/s]</t>
 <t id="L_M_MIN_SEGMENT_TIME" ver="1">最小段時間[ms]</t>
-<t id="L_M_MIN_TRAVEL_FEEDRATE" ver="1">最小非打印運行速度[mm/s]</t>
-<t id="L_M_PID_SETTINGS" ver="1">PID 設置:</t>
+<t id="L_M_MIN_TRAVEL_FEEDRATE" ver="1">最小非列印執行速度[mm/s]</t>
+<t id="L_M_PID_SETTINGS" ver="1">PID 設定:</t>
 <t id="L_M_STEPS_PER_MM" ver="1">每mm步數steps per mm:</t>
 <t id="L_M_RETRACT_ACCELERATION" ver="1">反轉加速度:</t>
-<t id="B_M_LOAD" ver="1">重載入配置</t>
-<t id="B_M_RESTORE" ver="1">恢復缺省設定</t>
-<t id="B_M_SAVE" ver="1">保存到 EEPROM</t>
-<t id="L_M_CONFIRM_WRITE" ver="1">保存設置內容寫入到EEPROM，請確認?</t>
-<t id="L_M_SETTINGS_STORED" ver="1">設置已保存</t>
-<t id="L_M_SAVE_RETIEVED" ver="1">保存已恢復的數據到EEPROM，請確認?</t>
-<t id="L_M_FACTORY_RETRIEVED" ver="1">讀取缺省設置</t>
-<t id="L_SLICING_STL_FILE..." ver="1">處理STL 文件...</t>
-<t id="L_SKEIN_STILL_RUNNING" ver="1">上一次代碼生成還未結束. 當前任務取消.</t>
-<t id="L_SKEIN_KILLED" ver="1">$1 代碼生成過程被用戶取消.</t>
-<t id="W_SKEIN_SETTINGS" ver="1">Skeinforge/SFACT 設置</t>
-<t id="L_SKEIN_APPLICARTION" ver="1">Skeinforge 應用插件:</t>
+<t id="B_M_LOAD" ver="1">重新載入設定</t>
+<t id="B_M_RESTORE" ver="1">恢復預設設定</t>
+<t id="B_M_SAVE" ver="1">儲存到 EEPROM</t>
+<t id="L_M_CONFIRM_WRITE" ver="1">儲存設定內容寫入到EEPROM?</t>
+<t id="L_M_SETTINGS_STORED" ver="1">設定已儲存</t>
+<t id="L_M_SAVE_RETIEVED" ver="1">儲存已恢復的資料到EEPROM?</t>
+<t id="L_M_FACTORY_RETRIEVED" ver="1">讀取預設設定</t>
+<t id="L_SLICING_STL_FILE..." ver="1">處理STL 檔案...</t>
+<t id="L_SKEIN_STILL_RUNNING" ver="1">上一次程式碼產生還未結束. 目前任務取消.</t>
+<t id="L_SKEIN_KILLED" ver="1">$1 程式碼產生過程被用戶取消.</t>
+<t id="W_SKEIN_SETTINGS" ver="1">Skeinforge/SFACT 設定</t>
+<t id="L_SKEIN_APPLICARTION" ver="1">Skeinforge應用程式:</t>
 <t id="L_SKEIN_CRAFT" ver="1">Skeinforge craft:</t>
-<t id="L_SKEIN_PROFDIR_INFO" ver="1">選擇skeinforge 配置文件目錄和對應子目錄. 通常在HOME/.skeinforge/profiles中. 一些特定的版本如SFACT 路徑不同.</t>
-<t id="L_SKEIN_PROFILES_DIRECTORY" ver="1">配置文件目錄:</t>
+<t id="L_SKEIN_PROFDIR_INFO" ver="1">選擇skeinforge 設定檔案目錄和對應子目錄. 通常在HOME/.skeinforge/profiles中. 一些特定的版本如SFACT 路徑不同.</t>
+<t id="L_SKEIN_PROFILES_DIRECTORY" ver="1">設定檔案目錄:</t>
 <t id="L_SKEIN_PYPY" ver="1">PyPy:</t>
-<t id="L_SKEIN_PYPY_INFO" ver="1">如果你安裝了PYPY, Skeinforge 代碼生成速度會快3-4倍. 如果未安裝pypy , 這裡請留空白使用缺省的python解釋器</t>
-<t id="L_SKEIN_PYTHON" ver="1">Python 解釋器:</t>
-<t id="L_SKEIN_WORKDIR_INFO" ver="1">該工作路徑, 設置SFACT 的配置文件目錄!</t>
+<t id="L_SKEIN_PYPY_INFO" ver="1">如果你安裝了PYPY, Skeinforge 程式碼產生速度會快3-4倍. 如果未安裝pypy , 這裡請留空白使用預設的python編譯器</t>
+<t id="L_SKEIN_PYTHON" ver="1">Python 編譯器:</t>
+<t id="L_SKEIN_WORKDIR_INFO" ver="1">該工作路徑, 設定SFACT 的設定檔案目錄!</t>
 <t id="L_SKEIN_WORKING_DIRECTORY" ver="1">工作路徑:</t>
-<t id="L_SKEIN_OPEN_FILE" ver="1">Skeinforge 應用</t>
-<t id="L_SKEIN_OPEN_PYTHON" ver="1">Python 解釋器</t>
+<t id="L_SKEIN_OPEN_FILE" ver="1">Skeinforge 應用程式</t>
+<t id="L_SKEIN_OPEN_PYTHON" ver="1">Python 編譯器</t>
 <t id="L_SKEIN_OPEN_CRAFT" ver="1">Skeinforge Craft 應用</t>
-<t id="L_SKEIN_OPEN_PYPY" ver="1">Pypy Python 解釋器</t>
-<t id="L_SKEIN_SELECT_PROFILE_FOLDER" ver="1">選擇配置文件路徑</t>
+<t id="L_SKEIN_OPEN_PYPY" ver="1">Pypy Python 編譯器</t>
+<t id="L_SKEIN_SELECT_PROFILE_FOLDER" ver="1">選擇設定檔案路徑</t>
 <t id="L_SKEIN_SELECT_WORKING_FOLDER" ver="1">選擇工作目錄</t>
-<t id="L_FEEDRATE:" ver="1">打印頭移動速度feedrate:</t>
+<t id="L_FEEDRATE:" ver="1">列印頭移動速度feedrate:</t>
 <t id="L_FLOWRATE:" ver="1">擠出頭擠出速度Flowrate:</t>
-<t id="L_UPDATE_NO_CONNECTION" ver="1">無法連接到軟件更新服務器!</t>
+<t id="L_UPDATE_NO_CONNECTION" ver="1">無法連接到軟體更新伺服器!</t>
 <t id="L_MOVE_CAMERA" ver="1">移動相機</t>
-<t id="L_MOVE_OBJECT" ver="1">移動物體</t>
+<t id="L_MOVE_OBJECT" ver="1">移動物件</t>
 <t id="L_MOVE_VIEWPOINT" ver="1">移動視點</t>
-<t id="L_RESET_VIEW" ver="1">重置窗口</t>
+<t id="L_RESET_VIEW" ver="1">重置視窗</t>
 <t id="L_ROTATE" ver="1">旋轉</t>
-<t id="L_TOP_VIEW" ver="1">頂視圖</t>
+<t id="L_TOP_VIEW" ver="1">上視圖</t>
 <t id="T_ZOOM_VIEW" ver="1">縮放</t>
 <t id="T_CLEAR_OBJECTS" ver="1">清除</t>
-<t id="L_DEBUG_OPTIONS" ver="2">調式選項</t>
+<t id="L_DEBUG_OPTIONS" ver="2">測試選項</t>
 <t id="L_X_MIN:" ver="3">X 最小</t>
 <t id="L_X_MAX:" ver="3">X 最大</t>
 <t id="L_Y_MIN:" ver="3">Y 最小</t>
 <t id="L_Y_MAX:" ver="3">Y 最大</t>
 <t id="L_BED_LEFT:" ver="3">加熱床左:</t>
 <t id="L_BED_FRONT:" ver="3">加熱床前:</t>
-<t id="L_SHAPE_INFO" ver="3">這些最小最大值定義了擠出頭可以移動的範圍. 坐標如果為負值表明擠出頭超出了加熱床的範圍. 加熱床的左/前坐標定義了打印開始時的加熱床位置. 通過更改這裡的最大/最小值如果固件支持可以移動擠出頭到固件定義範圍之外.</t>
+<t id="L_SHAPE_INFO" ver="3">這些最小最大值定義了擠出頭可以移動的範圍. 坐標如果為負值表明擠出頭超出了加熱床的範圍. 加熱床的左/前坐標定義了列印開始時的加熱床位置. 通過更改這裡的最大/最小值如果韌體支持可以移動擠出頭到韌體定義範圍之外.</t>
 <t id="L_SELECTION_BOX" ver="3">選擇框:</t>
 <t id="L_FILAMENT_NONE" ver="3">無/與擠出頭1相同</t>
-<t id="L_REALLY_QUIT" ver="3">打印還在進行中. 確定要退出?</t>
+<t id="L_REALLY_QUIT" ver="3">列印還在進行中. 確定要退出?</t>
 <t id="M_DONATE" ver="3">捐贈或支持</t>
 <t id="L_FAN" ver="4">風扇</t>
 <t id="L_HOME_X:" ver="4">初始位 X:</t>
@@ -485,19 +485,175 @@
 <t id="L_HOME_Z:" ver="4">初始位 Z:</t>
 <t id="L_MIN" ver="4">最小</t>
 <t id="L_MAX" ver="4">最大</t>
-<t id="L_PAUSED_FIRMWARE" ver="4">打印機需要暫停</t>
-<t id="L_CREATE_FOLDER" ver="4">創建新文件夾</t>
-<t id="L_CREATE_FOLDER_INFO" ver="4">輸入新文件夾名按照8.3格式:</t>
+<t id="L_PAUSED_FIRMWARE" ver="4">印表機需要暫停</t>
+<t id="L_CREATE_FOLDER" ver="4">新增資料夾</t>
+<t id="L_CREATE_FOLDER_INFO" ver="4">輸入新資料夾名稱按照8.3格式:</t>
 <t id="L_UPLOADING_TIME" ver="4">上傳時間: $1</t>
 <t id="L_FILAMENT_POS" ver="4">材料: $1</t>
-<t id="L_TRAVEL_VISUALIZATION_DISABLED" ver="4">禁止軌跡可視化</t>
+<t id="L_TRAVEL_VISUALIZATION_DISABLED" ver="4">關閉軌跡可視化</t>
 <t id="M_HIDE_TRAVEL" ver="4">隱藏軌跡</t>
-<t id="L_TRAVEL_VISUALIZATION_ENABLED" ver="4">允許軌跡可視化</t>
+<t id="L_TRAVEL_VISUALIZATION_ENABLED" ver="4">啟用軌跡可視化</t>
 <t id="M_SHOW_TRAVEL" ver="4">顯示軌跡</t>
 <t id="L_TRAVEL_MOVES:" ver="4">軌跡移動:</t>
-<t id="L_DISABLE_TRAVEL_MOVES_VIS" ver="4">禁止軌跡移動可視化</t>
-<t id="L_NUMBER_OF_EXTRUDER:" ver="5">擠出頭數目:</t>
-<t id="L_NEW_FOLDER" ver="5">新文件夾</t>
+<t id="L_DISABLE_TRAVEL_MOVES_VIS" ver="4">關閉軌跡移動可視化</t>
+<t id="L_NUMBER_OF_EXTRUDER:" ver="5">擠出頭數量:</t>
+<t id="L_NEW_FOLDER" ver="5">新資料夾</t>
 <t id="L_USE_PARALLEL_PROJECTION" ver="5">使用平行投影</t>
-<t id="L_USE_RED_GREEN_SWITCH" ver="5">使用紅/綠開關按鈕(需要重啟軟件)</t>
+<t id="L_USE_RED_GREEN_SWITCH" ver="5">使用紅/綠開關按鈕(需要重新啟動軟體)</t>
+<t id="L_SLIC3R_NOT_FOUND" ver="6">沒有找到Slic3r</t>
+<t id="L_ANALYSING_STL" ver="6">分析 STL 檔案 ...</t>
+<t id="L_SLICING_STL" ver="6">切層 STL 檔案 ...</t>
+<t id="L_PYPY_NOT_FOUND" ver="6">沒有找到Pypy或Python編譯器</t>
+<t id="L_SKEINCRAFT_NOT_FOUND" ver="6">沒有找到Skeinforge</t>
+<t id="L_PYTHON_NOT_FOUND" ver="6">沒有找到Python編譯器</t>
+<t id="L_SKEINFORGE_NOT_FOUND" ver="6">沒有找到Skeinforge</t>
+<t id="L_SKEINCRAFT_PROFILES_NOT_FOUND" ver="6">沒有找到Skeinforge/SFACT設定檔目錄</t>
+<t id="B_REFRESH_PORTS" ver="6">重新整理通訊埠</t>
+<t id="L_ROS_PRINTABLE_HEIGHT:" ver="6">列印高度:</t>
+<t id="L_ROS_PRINTABLE_RADIUS:" ver="6">列印半徑:</t>
+<t id="L_CARTESIAN_PRINTER" ver="6">一般印表機</t>
+<t id="L_CARTESIAN_PRINTER_DUMP" ver="6">一般印表機(with dump area)</t>
+<t id="L_ROSTOCK_CIRCLE" ver="6">Rostock印表機(circular print shape)</t>
+<t id="L_CORRECT_NORMALS" ver="7">使用精密座標系 (更好看, 需要更多的記憶體)</t>
+<t id="L_WARNING" ver="8">警告</t>
+<t id="L_HEATERS_ON_QUEST" ver="8">有部分加熱器仍然開啟中，全部關閉?</t>
+<t id="L_OBJECTS_OUTSIDE_SLICE_QUEST" ver="8">有至少一個物件在列印範圍外面，忽略切層?</t>
+<t id="L_CNC_ROUTER" ver="8">CNC路由器</t>
+<t id="L_SLIC3R_VERSION" ver="8">Slic3r版本</t>
+<t id="L_MODEL_ERRORS" ver="9">模型錯誤:</t>
+<t id="L_REPAIR" ver="9">修復</t>
+<t id="L_SPLIT" ver="9">分裂</t>
+<t id="L_YES" ver="9">是</t>
+<t id="L_NO" ver="9">否</t>
+<t id="L_MODEL_CHANGED_RELOAD" ver="9"><![CDATA[一個或多個物件檔案已經被變更，重新開啟?]]></t>
+<t id="L_FILES_CHANGED" ver="9">檔案已變更</t>
+<t id="L_INNER_FACES" ver="9">內面:</t>
+<t id="L_BACKGROUND_TOP" ver="9">背景頂部:</t>
+<t id="L_BACKGROUND_BOTTOM" ver="9">背景底部:</t>
+<t id="L_PRINTER_FRAME" ver="9">印表機框架:</t>
+<t id="L_ISOMETRIC_VIEW" ver="9">等軸視角</t>
+<t id="L_BOTTOM_VIEW" ver="9">仰視圖</t>
+<t id="L_LEFT_VIEW" ver="9">左側視圖</t>
+<t id="L_RIGHT_VIEW" ver="9">右側視圖</t>
+<t id="L_FRONT_VIEW" ver="9">俯視圖</t>
+<t id="L_BACK_VIEW" ver="9">後視圖</t>
+<t id="M_VIEW" ver="9">視角</t>
+<t id="M_SHOW_EDGES" ver="9">顯示邊線</t>
+<t id="M_SHOW_FACES" ver="9">顯示表面</t>
+<t id="L_ANA_MODIFIED" ver="9">已修改:</t>
+<t id="L_ANA_MANIFOLD" ver="9">多種:</t>
+<t id="L_ANA_INTERSECTING_TRIANGLES" ver="9">相交三角形:</t>
+<t id="L_ANA_NORMALS" ver="9">法線:</t>
+<t id="L_ANA_LOOP_EDGES" ver="9">Loop Edges:</t>
+<t id="L_ANA_HIGHLY_CONNECTED" ver="9">Highly Connected Edges:</t>
+<t id="L_ANA_VERTICES" ver="9">Points:</t>
+<t id="L_ANA_EDGES" ver="9">Edges:</t>
+<t id="L_ANA_FACES" ver="9">Faces:</t>
+<t id="L_ANA_SHELLS" ver="9">Shells:</t>
+<t id="L_ANA_ORIENTED" ver="9">Oriented</t>
+<t id="L_ANA_NOT_ORIENTED" ver="9">Not Oriented</t>
+<t id="M_TOOLS" ver="9">工具</t>
+<t id="M_BELT_CALCULATOR" ver="9">皮帶計算機</t>
+<t id="M_LEADSCREW_CALCULATOR" ver="9">螺絲桿計算機</t>
+<t id="L_MOTOR_STEP_ANGLE" ver="9">馬達步角</t>
+<t id="L_DRIVER_MICROSTEPPING" ver="9">驅動器微步數</t>
+<t id="L_BELT_PITCH" ver="9">皮帶齒距</t>
+<t id="L_TOOTH_COUNT" ver="9">齒數</t>
+<t id="B_CALCULATE" ver="9">計算</t>
+<t id="L_STEPS_PER_MM" ver="9">單位步階脈衝</t>
+<t id="L_TOOTH_COUNT_MUST_INT" ver="9">齒數必須為整數</t>
+<t id="L_LEADSCREW_PITCH" ver="9">螺絲桿螺距</t>
+<t id="L_GEAR_RATIO" ver="9">齒輪比</t>
+<t id="L_SERIAL_CONNECTION" ver="9">序列連接</t>
+<t id="L_VIRTUAL_CONNECTION" ver="9">虛擬印表機</t>
+<t id="L_REPETIER_SERVER_CONNECTION" ver="9">Repetier-伺服器</t>
+<t id="L_CONNECTOR" ver="9">Connector</t>
+<t id="L_DISABLED" ver="9">關閉</t>
+<t id="L_DTR_LOW_HIGH" ver="9">DTR high->low</t>
+<t id="L_DTR_LOW_HIGH_LOW" ver="9">DTR low->high->low</t>
+<t id="L_DTR_TOGGLE" ver="9">DTR toggle</t>
+<t id="L_RESET_ON_CONNECT" ver="9">Reset on Connect</t>
+<t id="L_RESET_ON_EMERGENCY" ver="9">Reset on Emergency</t>
+<t id="L_SEND_EMERGENCY_CMD" ver="9">Send emergency command</t>
+<t id="L_SEND_EMERGENCY_CMD_DTR_TOGGLE" ver="9">Send emergency command + DTR high->low</t>
+<t id="L_SEND_EMERGENCY_CMD_RECONNECT" ver="9">Send emergency command and reconnect</t>
+<t id="L_FILE_ASSOCIATIONS" ver="9">File Associations</t>
+<t id="L_ASSOCIATE_EXTENSIONS" ver="9">Associate Extensions</t>
+<t id="L_CONNECTION_FAILED" ver="9">The connection failed with the following error: $1. Make sure your printer is connected, enabled and connection data is set correct. Open printer settings?</t>
+<t id="L_AUTOENABLE_PARALLEL_TOPVIEW" ver="9">Enable parallel mode in top view</t>
+<t id="L_RESET_DEFAULTS" ver="9">Reset defaults</t>
+<t id="L_REMOVED_DEGENERATED" ver="9">Removed degenerated triangles:</t>
+<t id="L_REMOVED_ISOLATED" ver="9">Removed isolated triangles:</t>
+<t id="L_REMOVED_DOUBLE" ver="9">Removed double triangles:</t>
+<t id="L_STARTING_ANALYSER" ver="9">Starting object analyser ...</t>
+<t id="L_ANALYSER_FINISHED" ver="9">Analysing finished.</t>
+<t id="L_LOADING_3D_FAILED" ver="9">Loading of 3d file $1 failed.</t>
+<t id="L_OBJECT_INFORMATIONS" ver="9">Object Informations</t>
+<t id="L_MINIMUM:" ver="9">最小:</t>
+<t id="L_MAXIMUM:" ver="9">最大:</t>
+<t id="L_SIZE:" ver="9">大小:</t>
+<t id="L_VOLUME:" ver="9">體積:</t>
+<t id="L_SURFACE:" ver="9">表面:</t>
+<t id="L_DIMENSIONS:" ver="9">尺寸:</t>
+<t id="L_SPLIT_OBJECT" ver="9">Split Object</t>
+<t id="L_FIX_NORMALS" ver="9">Fix Normals</t>
+<t id="M_FIT_PRINTER" ver="9">Fit Printer</t>
+<t id="M_FIT_OBJECTS" ver="9">Fit Objects</t>
+<t id="IMPORTING_1" ver="9">Importing $1</t>
+<t id="L_LOADING..." ver="9">開啟中 ...</t>
+<t id="L_INTERSECTION_TESTS" ver="9">Intersection tests</t>
+<t id="L_FIXING_NORMALS" ver="9">Fixing normals</t>
+<t id="L_ANA_FIXED_COLLINEAR_TRIANGLES" ver="9">Fixed collinear triangles:</t>
+<t id="L_ANA_CORRECTED_NORMAL_ORIENTATIONS" ver="9">Corrected normal orientations:</t>
+<t id="L_OBJECT_IS_MANIFOLD" ver="9">Object is manifold.</t>
+<t id="L_OBJECT_IS_NON_MANIFOLD" ver="9">Object is non-manifold. Slicing may produce wrong results. Please repair object file first.</t>
+<t id="L_SHOW_COMPASS" ver="9">Show Compass</t>
+<t id="L_CONFIRM_DELETE_JOB" ver="10">Are you sure you want to delete job $1?</t>
+<t id="L_PRINT_STATE_SAVED_SUCCESSFULLY" ver="10">State was saved successfully</t>
+<t id="M_POSPONED_JOBS" ver="10">Postponed Jobs</t>
+<t id="M_RESUME_JOB" ver="10">繼續</t>
+<t id="M_POSTPONE_JOB" ver="10">Postpone Current Job</t>
+<t id="W_POSTPONED_PRINT_JOBS" ver="10">Postponed Print Jobs</t>
+<t id="M_POSTPONED_JOB_SELECT_JOB" ver="10">繼續任務</t>
+<t id="M_POSTPONED_JOB_KILL_JOB" ver="10">刪除任務</t>
+<t id="M_POSTPONED_JOB_RENAME_JOB" ver="10">重新命名任務</t>
+<t id="L_POSTPONED_JOB_NAME" ver="10">任務名稱</t>
+<t id="L_NAME_POSTPONED_JOB" ver="10">請為任務命名</t>
+<t id="L_POSTPONED_JOB_DIALOG_DESCRIPTION" ver="10">The Job state will be saved once the current layer is completed. You can also force saving the job state now, or resume printing.</t>
+<t id="B_FORCE_SAVE_POSTPONED_JOB" ver="10">&amp;Force</t>
+<t id="B_RESUME_PRINTING_JOB" ver="10">&amp;Resume</t>
+<t id="W_POSTPONED_JOB_DIALOG" ver="10">Postpone Print Job</t>
+<t id="M_TOGGLE_PRINTER_ID" ver="10">Toggle Printer ID View</t>
+<t id="L_PRINTER_ID" ver="10">Printer ID</t>
+<t id="L_BGCOLOR:" ver="10">Background Color:</t>
+<t id="L_EDIT_INSTANCE_NAME" ver="10">Edit Printer ID</t>
+<t id="L_ANAYLSING" ver="10">Analysing</t>
+<t id="L_NOT_TESTED" ver="10">Not tested</t>
+<t id="L_CONNECTOR:" ver="10">Connector:</t>
+<t id="L_NORMAL_CORRECTION_IMPOSSIBLE" ver="10">Normal correction not possible for non-manifold meshes.</t>
+<t id="M_MED_HEIGHT_MAP" var="10">Bed height map</t>
+<t id="M_CREATE_HEIGHT_MAP" var="10">Create Height Map</t>
+<t id="B_MEASURE_HEIGHTS" ver="10">測量高度</t>
+<t id="B_RESULT_TO_CLIPBOARD" ver="10">複製結果至剪貼簿</t>
+<t id="L_SCAN_AREA" ver="10">掃描區域</t>
+<t id="L_SCAN_RESULTS" ver="10">掃描結果</t>
+<t id="L_X_MIN:" ver="10">X 最小:</t>
+<t id="L_Y_MIN:" ver="10">Y 最大:</t>
+<t id="L_X_MAX:" ver="10">X 最小:</t>
+<t id="L_Y_MAX:" ver="10">Y 最大:</t>
+<t id="L_X_POINTS:" ver="10">X 點:</t>
+<t id="L_Y_POINTS:" ver="10">Y 點:</t>
+<t id="L_Z_MIN:" ver="10">Z 最小:</t>
+<t id="L_Z_MAX:" ver="10">Z 最大:</t>
+<t id="L_Z_AVG:" ver="10">Z 平均:</t>
+<t id="L_Z_CENTER:" ver="10">Z 中心</t>
+<t id="L_CUT_FACES" ver="10">切割物件</t>
+<t id="L_CUT_POSITION" ver="10">位置</t>
+<t id="L_CUT_INCLINATION" ver="10">Inclination</t>
+<t id="L_CUT_AZIMUTH" ver="10">Azimuth</t>
+<t id="UNITS_OF_IMPORTED_OBJECTS" ver="10">物件的單位</t>
+<t id="OBJECTS_ARE_IN_MILLIMETER" ver="10">物件單位為吋毫米</t>
+<t id="OBJECTS_ARE_IN_INCHES" ver="10">物件單位為吋</t>
+<t id="OBJECTS_ARE_IN_FOOT" ver="10">物件單位為英吋</t>
+<t id="OBJECTS_ARE_IN_METER" ver="10">物件單位為公尺</t>
 </translation>
